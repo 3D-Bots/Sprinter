@@ -31,8 +31,9 @@
 
 //// Calibration variables
 // X, Y, Z, E steps per unit - Metric Prusa Mendel with Wade extruder:
-//#define _AXIS_STEP_PER_UNIT {80, 80, 3200/1.25,700}
-#define _AXIS_STEP_PER_UNIT {62.9921, 63.9921, 2207.7183, 757.2218}
+//#define _AXIS_STEP_PER_UNIT {80, 80, 3200/1.25,700} 
+//#define _AXIS_STEP_PER_UNIT {62.9921, 63.9921, 2207.7183, 757.2218}
+#define _AXIS_STEP_PER_UNIT {65.3865, 66.8366, 2409.5148, 757.2218}
 // Metric Prusa Mendel with Makergear geared stepper extruder:
 //#define _AXIS_STEP_PER_UNIT {80,80,3200/1.25,1380}
 // MakerGear Hybrid Prusa Mendel:
